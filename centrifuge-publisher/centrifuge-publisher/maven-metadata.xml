@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>centrifuge-publisher</groupId>
+  <artifactId>centrifuge-publisher</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20131224195212</lastUpdated>
+  </versioning>
+</metadata>
